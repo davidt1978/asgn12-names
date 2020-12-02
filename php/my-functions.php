@@ -12,11 +12,7 @@ function head_info() {
   echo ('<link rel="stylesheet" href="../css/styles.css">');
 }
 
-// Define Index
-
-if(!isset($_POST['submit'])) {
- $_POST['submit'] = '';
-}
+// Name Functions
 
 
 
